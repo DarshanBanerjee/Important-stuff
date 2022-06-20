@@ -1,0 +1,32 @@
+Assignment For Day 2😊🥇🌿
+
+Questions :-
+1. What is lexical structure?
+2. What is Unicode?
+3. Explain all the keywords present in the JavaScript with examples.
+4. What are shorthand operators, explain with a suitable example?
+5. What is “use Strict” in JavaScript?
+
+
+Answers :-
+1. Lexical Structure is the basic set of rules, regulations, and syntax for any programming language.
+2. Unicode characters are those characters which are not included in the set of basic ASCII characters.
+3. List of Basic Keywords in Javascript (which were discussed in the Marathon sessions 1 and 2):-
+    i. let
+    Used to define a variable
+    Example -
+    let name = "Darshan";
+    ii. const
+    Used to define a constant
+    Example -
+    const pi = 3.14;
+    iii. var
+    Old-school way to define a variable
+    Example -
+    var a = 3;
+4. Shortand operators are the  operators that perform specifc actions with data. They have a specific symbol (or symbols) and ca be used to do a vast range of things, like assignment, comparison, arithmetic, logical-oprations etc
+   For example, 
+   = is the assignment operator
+   >= is a relational operator
+5. "use strict" is a way of entering strict mode in javascript. This means any unregulated stuff, like using undeclared variables causes an error.
+    
