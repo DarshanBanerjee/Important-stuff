@@ -1,0 +1,19 @@
+Assignment For Day 1😊🚀
+
+Questions :-
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+2. What is the difference between client-side and server-side?
+3. What is Nodejs?
+4. Explain Scope in JavaScript
+5. JavaScript is asynchronous or synchronous.
+6. JavaScript is Single-threaded or Multi-threaded.
+7. Explain DOM in your own word.
+
+Answers :-
+1. Javascript can be used to make web applications (both server and client side), desktop-application, mobile-apps and a lot more.
+2. Client-side is the front-end or the part of the website that the user interacts with, there is a seperate a client-side interface for each user, and server-side is the back-end or the part of the website that controls all client-sides, send and receive data from them, perform neccesary manipulations, and return it to the client-sides.
+3. NodeJS is a Javascript rutime environment that runs on the V8 Engine and exceutes Javascript outside of a web browser.
+4. Scopes are the levels in which data is defined or accessed. For example, Global scope, local scope etc.
+5. Javascript is asynchronous. This means that it can perform multiple tasks at the same time.
+6. Although Javascript can perform asynchronous tasks, it is Single-threaded.
+7. DOM, or Document Object Model is an interface for web documents. It holds metadata about a certain webpage so that the webpage can change its document structure, style and content.
